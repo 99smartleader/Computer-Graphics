@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 19 20:01:28 2022
 
-@author: 99sma
+@author: 99smartleader/smartwolf99
 """
 
 # Import NURBS-Python and the visualization component
