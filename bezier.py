@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 19 17:22:18 2022
 
-@author: 99sma
+@author: 99smartleader/smartwolf99
 """
 
 import math
