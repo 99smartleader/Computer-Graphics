@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 19 16:56:10 2022
-
-@author: 99sma
+Created on Sat Nov 19 17:22:18 2022
+@author: 99smartleader/smartwolf99
 """
 import math
 import matplotlib.pyplot as plt
