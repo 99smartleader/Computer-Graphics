@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 19 19:24:00 2022
 
-@author: 99sma
+@author: 99smartleader/smartwolf99
 """
 
 import numpy as np
